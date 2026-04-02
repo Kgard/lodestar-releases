@@ -116,8 +116,8 @@ Your API key. Your repo. Your data stays local.
 
 ## License
 
-Proprietary — Titania Labs LLC. See [LICENSE](LICENSE) for details.
+Proprietary — Kylex LLC. See [LICENSE](LICENSE) for details.
 
 ---
 
-Built by [Titania Labs](https://kylex.io) · [Report an issue](https://github.com/Kgard/lodestar-releases/issues)
+Built by Kylex(https://kylex.io) · [Report an issue](https://github.com/Kgard/lodestar-releases/issues)
