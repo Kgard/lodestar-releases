@@ -1,4 +1,5 @@
-# Lodestar
+#![lodestar_demo_v3](https://github.com/user-attachments/assets/f63d4e9e-218b-441e-998d-e50e60ea5449)
+ Lodestar
 
 **The code is always saved. The thinking behind it wasn't. Now it is.**
 
