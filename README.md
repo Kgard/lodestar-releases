@@ -107,18 +107,6 @@ Your API key. Your repo. Your data stays local.
 
 
 ---
-
-## Three commands
-
-```bash
-lodestar start       # Load context from your last session
-lodestar save        # Mid-session checkpoint
-lodestar end         # Done for the day — save and commit
-```
-
-That's it. No paths needed if you're in your project directory. Works from the terminal or just tell your AI — "lodestar start", "lodestar save", "lodestar end".
-
----
 ## Works with
 
 | Tool | Setup | Session start |
@@ -129,6 +117,18 @@ That's it. No paths needed if you're in your project directory. Works from the t
 | Any MCP-compatible tool | Add server entry to MCP config | Call `lodestar_load` tool |
 
 ---
+## Three commands for non-Claude Code
+
+```bash
+lodestar start       # Load context from your last session
+lodestar save        # Mid-session checkpoint
+lodestar end         # Done for the day — save and commit
+```
+
+That's it. No paths needed if you're in your project directory. Works from the terminal or just tell your AI — "lodestar start", "lodestar save", "lodestar end".
+
+---
+
 ---
 
 ## Terminal summary
